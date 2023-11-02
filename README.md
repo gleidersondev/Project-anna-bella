@@ -30,7 +30,12 @@ Se precisar revisitar conceitos de HTML e CSS, recomendo seguintes recursos:
 
 **Sinta-se à vontade para clonar, personalizar e expandir este projeto conforme desejar. Boa sorte e divirta-se codificando!** 🚀
 
-*Todo conteúdo desse README foi produzido por mim, Gleiderson David*.
+
+
+
+*Todo conteúdo desse README foi produzido por mim, Gleiderson David.*
+
+*Projeto proposto por Jamilton Damasceno - Curso Desenvolvimento Web Completo Udemy.*
 
 
 
