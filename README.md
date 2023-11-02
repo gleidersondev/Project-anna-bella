@@ -17,7 +17,7 @@ O objetivo do meu Projeto Anna Belle é desenvolver uma página web semelhante a
 Para realizar esse projeto, basta:
 
 1. Clonar este repositório em seu ambiente de desenvolvimento local usando o comando git clone.
-2. Abra os arquivos home.html, biografia.html e campanhas.html no seu editor de código preferido.
+2. Abra os arquivos home.html, biografia.html, campanhas.html e contato.html no seu editor de código preferido.
 3. Implemente o conteúdo das páginas usando HTML, aplicando as estruturas aprendidas, como cabeçalhos, parágrafos, listas e imagens.
 4. Estilize as páginas usando CSS, utilizando seletores, fontes, cores e propriedades de background para criar um design atraente e coeso.
 
