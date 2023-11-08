@@ -18,5 +18,12 @@ body {
 nav {
   background-color: #c5c5b2;
   padding: 18px;
+  color: #4b566a;
+}
 
+.link {
+  text-decoration: none;
+  color: #4b566a;
+  padding: 0 5px 0 5px;
+  font-weight: 600
 }
