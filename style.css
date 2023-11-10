@@ -42,3 +42,15 @@ footer {
   padding: 80px 0 0 0;
 }
 
+.campaign_photos {
+  border-style: solid;
+  border-width: 10px;
+  border-color: #c3c3ae;
+  padding: 5px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
