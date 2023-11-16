@@ -36,6 +36,7 @@ main {
 h2 {
   color: #828271;
   font-size: 1,2em;
+  padding: 35px 0px;
 }
 
 footer {
@@ -43,7 +44,6 @@ footer {
   align-items: center;
   justify-content: center;
   padding: 80px 0 0 0;
-  
 }
 
 .campaign_photos {
@@ -60,7 +60,5 @@ footer {
 }
 
 a:hover {
-  /* border-bottom:#4b566a 1px ; */
-
   border-bottom: 1px solid black;
 }
