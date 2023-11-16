@@ -5,7 +5,7 @@ Bem-vindo ao repositório do meu Projeto Anna Belle! Neste projeto, tenho como o
 Estruturação de páginas web com HTML, incluindo cabeçalho, parágrafos, formatação de texto, listas e imagens.
 Estilo e design de páginas usando CSS, incluindo seletores, fontes, cores e background.
 
-O objetivo do meu Projeto Anna Belle é desenvolver uma página web semelhante a um blog, onde posso compartilhar minhas experiências, pensamentos ou conhecimentos. A página deve conter:
+O objetivo do meu Projeto Anna Belle é desenvolver uma página web semelhante a um blog, onde posso compartilhar minhas experiências, ideias ou conhecimentos. A página deve conter:
 
 1. **Cabeçalho:** Um cabeçalho contendo uma imagem da Modelo Anna Belle ou título principal do site.
 2. **Navegação:** Um menu de navegação que permite aos usuários alternar entre as diferentes seções da página (por exemplo, Home, Biografia, Campanhas Publicitárias, Contato).
