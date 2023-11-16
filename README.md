@@ -28,8 +28,6 @@ Se precisar revisitar conceitos de HTML e CSS, recomendo seguintes recursos:
 + [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
 + [W3Schools CSS Tutorial](https://www.w3schools.com/css/)
 
-**Sinta-se à vontade para clonar, personalizar e expandir este projeto conforme desejar. Boa sorte e divirta-se codificando!** 🚀
-
 
 
 
