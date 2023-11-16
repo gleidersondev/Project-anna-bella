@@ -16,13 +16,16 @@ nav {
   background-color: #c5c5b2;
   padding: 18px;
   color: #4b566a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .link {
   text-decoration: none;
   color: #4b566a;
   padding: 2px 5px 2px 5px;
-  font-weight: 600
+  font-weight: 600;
 }
 
 main {
@@ -33,7 +36,6 @@ main {
 h2 {
   color: #828271;
   font-size: 1,2em;
-  /* padding: 10px; */
 }
 
 footer {
