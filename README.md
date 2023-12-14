@@ -1,13 +1,13 @@
 # Project Anna Bella
 
-Bem-vindo ao repositório do meu Projeto Anna Belle! Neste projeto, tenho como objetivo aplicar meus conhecimentos em HTML e CSS, criando uma página web simples com funcionalidades semelhantes a um blog. Ao trabalhar neste projeto, tive a oportunidade de praticar e aprimorar minhas habilidades em:
+Bem-vindo ao repositório do meu Projeto Anna Belle! Neste projeto, meu objetivo foi aplicar meus conhecimentos em HTML e CSS, criando uma página web simples com funcionalidades semelhantes a um blog. Ao trabalhar neste projeto, tive a oportunidade de praticar e aprimorar minhas habilidades em:
 
-Estruturação de páginas web com HTML, incluindo cabeçalho, parágrafos, formatação de texto, listas e imagens.
+Estruturação de páginas web com HTML, incluindo cabeçalho, parágrafos, listas e imagens.
 Estilo e design de páginas usando CSS, incluindo seletores, fontes, cores e background.
 
 ## Preview
 
-Ao terminar esse projeto a página deverá ser semelhante a esta imagem:
+Modelo do projeto:
 
 ![imagem do projeto](/img/projeto.png)
 
